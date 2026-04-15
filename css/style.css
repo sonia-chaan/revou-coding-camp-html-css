@@ -1,0 +1,5 @@
+/* Custom CSS untuk mendukung Tailwind */
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+}
